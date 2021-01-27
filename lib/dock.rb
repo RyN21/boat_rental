@@ -40,3 +40,4 @@ class Dock
     @rental_log.delete(boat)
   end
 end
+
